@@ -18,4 +18,5 @@ Vascular lesion
 ![image](https://github.com/Utkarsh-cartman/melanoma-detection/assets/127856699/f3d82e68-8ad5-48d3-8dd4-115543a93fff)
 
 ## Model Evaluation
-![image](https://github.com/Utkarsh-cartman/melanoma-detection/assets/127856699/3763c092-1ff6-4e2d-a9b7-967c76bad8a2)
+![image](https://github.com/Utkarsh-cartman/melanoma-detection/assets/127856699/9a60227f-ae7d-433e-8d19-7e9f63bb10f3)
+
